@@ -15,7 +15,8 @@ interface Server {
   ip: string;
   status: string;
 }
-``` |
+```
+|
 | Endpoint | POST /servers |
 | Description | Добавление нового сервера для управления |
 | Request | 
