@@ -29,7 +29,7 @@
 - Для реализации сервиса предлагается следующий стек технологий:
     - **Backend:**
         - Язык: Python 3.x
-        - Фреймворк: Flask
+        - Фреймворк: Django 5.0.6
         - БД: PostgreSQL
         - ORM: SQLAlchemy
     - **Frontend:**
